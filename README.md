@@ -26,4 +26,4 @@ git clone https://github.com/Datapacked/Cell-Machine-FOSS-Edition
 
 Read the LICENSE file
 
-If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at ~~sequiturstudios@gmail.com~~ not that email since they want to make money off of very nice features  or on discord at ~~Mystic#8374 or WorstPacifist#8024~~ [this server!](https://discord.gg/v6uNYDFntD)
+If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, ~~sequiturstudios@gmail(dot)com~~ on discord at ~~Mystic#8374 or WorstPacifist#8024~~ [this server!](https://discord.gg/v6uNYDFntD)
