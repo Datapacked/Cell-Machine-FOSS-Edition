@@ -4,8 +4,8 @@ A game about cellular automata
 
 ## Download
 
-- [Get the latest version of game here.](https://themysticlynx.itch.io/cell-machine-mystic-mod)
-- [Get the more recent development builds of the game here](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/build.yml) (Build Artifacts).
+- [Get the latest version of game here.]()
+- [Get the more recent development builds of the game here]() (Build Artifacts).
 
 
 ## Contributing
@@ -26,4 +26,4 @@ git clone https://github.com/Datapacked/Cell-Machine-FOSS-Edition
 
 Read the LICENSE file
 
-If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at sequiturstudios@gmail.com or on discord at Mystic#8374 or WorstPacifist#8024
+If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at ~~sequiturstudios@gmail.com~~ not that email since they want to make money off of very nice features  or on discord at ~~Mystic#8374 or WorstPacifist#8024~~ [this server!](https://discord.gg/v6uNYDFntD)
